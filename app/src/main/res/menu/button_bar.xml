@@ -5,23 +5,23 @@
 
     <item
         android:id="@+id/home"
-        android:icon="@drawable/ic_home"
-        android:title="Home"
-        app:cnb_iconColor="@color/home" />
+        android:icon="@drawable/ic_beranda"
+        android:title="@string/beranda"
+        app:cnb_iconColor="@color/main" />
     <item
         android:id="@+id/likes"
-        android:icon="@drawable/ic_search"
-        android:title="Likes"
-        app:cnb_iconColor="@color/search" />
+        android:icon="@drawable/ic_ibu"
+        android:title="@string/ibu"
+        app:cnb_iconColor="@color/main" />
     <item
         android:id="@+id/search"
-        android:icon="@drawable/ic_likes"
-        android:title="Search"
-        app:cnb_iconColor="@color/likes" />
+        android:icon="@drawable/ic_artikel"
+        android:title="@string/artikel"
+        app:cnb_iconColor="@color/main" />
     <item
         android:id="@+id/profile"
-        android:icon="@drawable/ic_profile"
-        android:title="Profile"
-        app:cnb_iconColor="@color/profile" />
+        android:icon="@drawable/ic_profil"
+        android:title="@string/profil"
+        app:cnb_iconColor="@color/main" />
 
 </menu>

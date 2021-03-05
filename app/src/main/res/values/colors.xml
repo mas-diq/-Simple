@@ -7,8 +7,5 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="home">#F4E13434</color>
-    <color name="likes">#206AD8</color>
-    <color name="search">#19D804</color>
-    <color name="profile">#E5C919</color>
+    <color name="main">#EF798A</color>
 </resources>
