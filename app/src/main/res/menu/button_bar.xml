@@ -19,12 +19,12 @@
         android:title="@string/Anak"
         app:cnb_iconColor="@color/main" />
     <item
-        android:id="@+id/search"
+        android:id="@+id/artikel"
         android:icon="@drawable/ic_artikel"
         android:title="@string/Artikel"
         app:cnb_iconColor="@color/main" />
     <item
-        android:id="@+id/profile"
+        android:id="@+id/pengguna"
         android:icon="@drawable/ic_pengguna"
         android:title="@string/Pengguna"
         app:cnb_iconColor="@color/main" />
