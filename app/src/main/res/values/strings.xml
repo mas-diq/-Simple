@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">NavBar</string>
-    <string name="beranda">Beranda</string>
-    <string name="ibu">Ibu</string>
-    <string name="artikel">Artikel</string>
-    <string name="profil">Profil</string>
+    <string name="Beranda">Beranda</string>
+    <string name="Ibu">Ibu</string>
+    <string name="Anak">Anak</string>
+    <string name="Artikel">Artikel</string>
+    <string name="Pengguna">Pengguna</string>
 </resources>
