@@ -22,7 +22,6 @@ class MainActivity : AppCompatActivity() {
                     R.id.berandaFragment,
                     R.id.ibuFragment,
                     R.id.anakFragment,
-                    R.id.anakFragment,
                     R.id.artikelFragment,
                     R.id.penggunaFragment
                 )
