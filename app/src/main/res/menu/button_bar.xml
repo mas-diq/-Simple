@@ -4,27 +4,27 @@
     app:cnb_unselectedColor="#f4f4f4">
 
     <item
-        android:id="@+id/fragmentBeranda"
+        android:id="@+id/berandaFragment"
         android:icon="@drawable/ic_beranda"
         android:title="@string/Beranda"
         app:cnb_iconColor="@color/main" />
     <item
-        android:id="@+id/fragmentIbu"
+        android:id="@+id/ibuFragment"
         android:icon="@drawable/ic_ibu"
         android:title="@string/Ibu"
         app:cnb_iconColor="@color/main" />
     <item
-        android:id="@+id/fragmentAnak"
+        android:id="@+id/anakFragment"
         android:icon="@drawable/ic_anak"
         android:title="@string/Anak"
         app:cnb_iconColor="@color/main" />
     <item
-        android:id="@+id/fragmentArtikel"
+        android:id="@+id/artikelFragment"
         android:icon="@drawable/ic_artikel"
         android:title="@string/Artikel"
         app:cnb_iconColor="@color/main" />
     <item
-        android:id="@+id/fragmentPengguna"
+        android:id="@+id/penggunaFragment"
         android:icon="@drawable/ic_pengguna"
         android:title="@string/Pengguna"
         app:cnb_iconColor="@color/main" />

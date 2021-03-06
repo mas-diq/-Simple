@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/my_nav"
-    app:startDestination="@id/anakFragment">
+    app:startDestination="@id/berandaFragment">
     <fragment
         android:id="@+id/anakFragment"
         android:name="com.dicoding.navbar.AnakFragment"

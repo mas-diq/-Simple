@@ -16,7 +16,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
         val buttomNavigationView = findViewById<BottomNavigationView>(R.id.buttom_navigation)
         val navController = findNavController(R.id.fragmentBeranda)
-
         buttomNavigationView.setupWithNavController(navController)
     }
 
