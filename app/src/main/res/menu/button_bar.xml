@@ -1,32 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    app:cnb_unselectedColor="#f4f4f4">
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/beranda"
+        android:id="@+id/berandaFragment"
         android:icon="@drawable/ic_beranda"
-        android:title="@string/Beranda"
-        app:cnb_iconColor="@color/main" />
+        android:title="@string/Beranda"/>
     <item
-        android:id="@+id/ibu"
+        android:id="@+id/ibuFragment"
         android:icon="@drawable/ic_ibu"
-        android:title="@string/Ibu"
-        app:cnb_iconColor="@color/main" />
+        android:title="@string/Ibu" />
     <item
-        android:id="@+id/anak"
+        android:id="@+id/anakFragment"
         android:icon="@drawable/ic_anak"
-        android:title="@string/Anak"
-        app:cnb_iconColor="@color/main" />
+        android:title="@string/Anak"/>
     <item
-        android:id="@+id/artikel"
+        android:id="@+id/artikelFragment"
         android:icon="@drawable/ic_artikel"
-        android:title="@string/Artikel"
-        app:cnb_iconColor="@color/main" />
+        android:title="@string/Artikel"/>
     <item
-        android:id="@+id/pengguna"
+        android:id="@+id/penggunaFragment"
         android:icon="@drawable/ic_pengguna"
-        android:title="@string/Pengguna"
-        app:cnb_iconColor="@color/main" />
+        android:title="@string/Pengguna"/>
 
 </menu>

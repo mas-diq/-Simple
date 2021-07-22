@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/berandaFragment">
+
+    <fragment
+        android:id="@+id/anakFragment"
+        android:name="com.dicoding.navbar.AnakFragment"
+        android:label="fragment_anak"
+        tools:layout="@layout/fragment_anak" />
+    <fragment
+        android:id="@+id/ibuFragment"
+        android:name="com.dicoding.navbar.IbuFragment"
+        android:label="fragment_ibu"
+        tools:layout="@layout/fragment_ibu" />
+    <fragment
+        android:id="@+id/penggunaFragment"
+        android:name="com.dicoding.navbar.PenggunaFragment"
+        android:label="fragment_pengguna"
+        tools:layout="@layout/fragment_pengguna" />
+    <fragment
+        android:id="@+id/artikelFragment"
+        android:name="com.dicoding.navbar.ArtikelFragment"
+        android:label="fragment_artikel"
+        tools:layout="@layout/fragment_artikel" />
+    <fragment
+        android:id="@+id/berandaFragment"
+        android:name="com.dicoding.navbar.BerandaFragment"
+        android:label="fragment_beranda"
+        tools:layout="@layout/fragment_beranda" />
+</navigation>
